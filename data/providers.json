@@ -1,0 +1,2047 @@
+[
+  {
+    "id": "p1",
+    "name": "Ahmed Plumber Services",
+    "service": "Plumber",
+    "sector": "G-13",
+    "coordinates": {
+      "lat": 33.642,
+      "lng": 72.968
+    },
+    "rating": 4.8,
+    "specialization": "Leakage & Pipe Repair",
+    "onTimeRate": 0.95,
+    "cancelRate": 0.05,
+    "baseRate": 1200,
+    "availability": [
+      "10:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "04:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-10",
+        "rating": 5,
+        "comment": "Excellent work!"
+      },
+      {
+        "date": "2026-05-12",
+        "rating": 4.5,
+        "comment": "Arrived on time."
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Irfan Electric Works",
+    "service": "Electrician",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.721,
+      "lng": 73.056
+    },
+    "rating": 4.2,
+    "specialization": "Wiring & DB Boxes",
+    "onTimeRate": 0.88,
+    "cancelRate": 0.12,
+    "baseRate": 1500,
+    "availability": [
+      "09:00 AM",
+      "01:00 PM",
+      "03:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-01",
+        "rating": 4,
+        "comment": "Good skill."
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "Sajid AC Technician",
+    "service": "AC Technician",
+    "sector": "G-11",
+    "coordinates": {
+      "lat": 33.668,
+      "lng": 72.998
+    },
+    "rating": 4.9,
+    "specialization": "Inverter AC Gas",
+    "onTimeRate": 0.98,
+    "cancelRate": 0.02,
+    "baseRate": 2500,
+    "availability": [
+      "11:00 AM",
+      "12:00 PM",
+      "04:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-14",
+        "rating": 5,
+        "comment": "Master of his craft."
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "Islamabad Carpentry",
+    "service": "Carpenter",
+    "sector": "F-10",
+    "coordinates": {
+      "lat": 33.692,
+      "lng": 73.011
+    },
+    "rating": 4.5,
+    "specialization": "Door & Furniture Fix",
+    "onTimeRate": 0.92,
+    "cancelRate": 0.08,
+    "baseRate": 1800,
+    "availability": [
+      "10:00 AM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p5",
+    "name": "Express Cleaning Co",
+    "service": "Cleaner",
+    "sector": "E-11",
+    "coordinates": {
+      "lat": 33.698,
+      "lng": 72.978
+    },
+    "rating": 4.6,
+    "specialization": "Deep Home Cleaning",
+    "onTimeRate": 0.9,
+    "cancelRate": 0.04,
+    "baseRate": 3000,
+    "availability": [
+      "08:00 AM",
+      "01:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p6",
+    "name": "Zubair Pipe Specialist",
+    "service": "Plumber",
+    "sector": "G-13",
+    "coordinates": {
+      "lat": 33.645,
+      "lng": 72.965
+    },
+    "rating": 4.4,
+    "specialization": "Water Tank Cleaning",
+    "onTimeRate": 0.85,
+    "cancelRate": 0.15,
+    "baseRate": 1000,
+    "availability": [
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p7",
+    "name": "Bashir Fan Repair",
+    "service": "Electrician",
+    "sector": "G-11",
+    "coordinates": {
+      "lat": 33.665,
+      "lng": 72.995
+    },
+    "rating": 4,
+    "specialization": "UPS & Inverter",
+    "onTimeRate": 0.8,
+    "cancelRate": 0.2,
+    "baseRate": 800,
+    "availability": [
+      "10:00 AM",
+      "11:00 AM",
+      "12:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p8",
+    "name": "Smart Coolers",
+    "service": "AC Technician",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.718,
+      "lng": 73.058
+    },
+    "rating": 4.7,
+    "specialization": "General Service",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.05,
+    "baseRate": 2200,
+    "availability": [
+      "09:00 AM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p9",
+    "name": "Quick Fix Plumbers",
+    "service": "Plumber",
+    "sector": "F-10",
+    "coordinates": {
+      "lat": 33.695,
+      "lng": 73.015
+    },
+    "rating": 4.3,
+    "specialization": "Kitchen Fittings",
+    "onTimeRate": 0.91,
+    "cancelRate": 0.09,
+    "baseRate": 1300,
+    "availability": [
+      "11:00 AM",
+      "01:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p10",
+    "name": "Bright Light Solutions",
+    "service": "Electrician",
+    "sector": "E-11",
+    "coordinates": {
+      "lat": 33.701,
+      "lng": 72.981
+    },
+    "rating": 4.8,
+    "specialization": "Solar Panel Repair",
+    "onTimeRate": 0.97,
+    "cancelRate": 0.03,
+    "baseRate": 1800,
+    "availability": [
+      "10:00 AM",
+      "02:00 PM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p11",
+    "name": "Alpha Carpenter",
+    "service": "Carpenter",
+    "sector": "G-13",
+    "coordinates": {
+      "lat": 33.64,
+      "lng": 72.97
+    },
+    "rating": 4.1,
+    "specialization": "Wardrobe Polish",
+    "onTimeRate": 0.86,
+    "cancelRate": 0.14,
+    "baseRate": 1600,
+    "availability": [
+      "09:00 AM",
+      "12:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p12",
+    "name": "Cleaning Squad Pk",
+    "service": "Cleaner",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.723,
+      "lng": 73.053
+    },
+    "rating": 4.9,
+    "specialization": "Sofa & Carpet Wash",
+    "onTimeRate": 0.99,
+    "cancelRate": 0.01,
+    "baseRate": 3500,
+    "availability": [
+      "08:00 AM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p13",
+    "name": "Hassan AC Repair",
+    "service": "AC Technician",
+    "sector": "G-11",
+    "coordinates": {
+      "lat": 33.671,
+      "lng": 73.001
+    },
+    "rating": 4.5,
+    "specialization": "Outdoor Unit Repair",
+    "onTimeRate": 0.93,
+    "cancelRate": 0.07,
+    "baseRate": 2400,
+    "availability": [
+      "10:00 AM",
+      "02:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p14",
+    "name": "Reliable Electric",
+    "service": "Electrician",
+    "sector": "F-10",
+    "coordinates": {
+      "lat": 33.69,
+      "lng": 73.018
+    },
+    "rating": 4.4,
+    "specialization": "Switch Replacement",
+    "onTimeRate": 0.89,
+    "cancelRate": 0.11,
+    "baseRate": 1100,
+    "availability": [
+      "11:00 AM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p15",
+    "name": "Modern Carpentry",
+    "service": "Carpenter",
+    "sector": "E-11",
+    "coordinates": {
+      "lat": 33.703,
+      "lng": 72.975
+    },
+    "rating": 4.7,
+    "specialization": "Modular Kitchen",
+    "onTimeRate": 0.96,
+    "cancelRate": 0.04,
+    "baseRate": 2200,
+    "availability": [
+      "10:00 AM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p16",
+    "name": "Purity Cleaners",
+    "service": "Cleaner",
+    "sector": "G-13",
+    "coordinates": {
+      "lat": 33.648,
+      "lng": 72.962
+    },
+    "rating": 4.2,
+    "specialization": "Kitchen Steam Clean",
+    "onTimeRate": 0.87,
+    "cancelRate": 0.13,
+    "baseRate": 2800,
+    "availability": [
+      "09:00 AM",
+      "01:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p17",
+    "name": "Umar Plumber G11",
+    "service": "Plumber",
+    "sector": "G-11",
+    "coordinates": {
+      "lat": 33.669,
+      "lng": 73.003
+    },
+    "rating": 4.6,
+    "specialization": "Bathroom Mixer",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.06,
+    "baseRate": 1400,
+    "availability": [
+      "12:00 PM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p18",
+    "name": "Electro Fixers",
+    "service": "Electrician",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.725,
+      "lng": 73.05
+    },
+    "rating": 4.3,
+    "specialization": "Chandelier Install",
+    "onTimeRate": 0.91,
+    "cancelRate": 0.09,
+    "baseRate": 2000,
+    "availability": [
+      "10:00 AM",
+      "02:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p19",
+    "name": "F-10 AC Masters",
+    "service": "AC Technician",
+    "sector": "F-10",
+    "coordinates": {
+      "lat": 33.693,
+      "lng": 73.013
+    },
+    "rating": 4.8,
+    "specialization": "Leak Detection",
+    "onTimeRate": 0.97,
+    "cancelRate": 0.03,
+    "baseRate": 2600,
+    "availability": [
+      "09:00 AM",
+      "12:00 PM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p20",
+    "name": "Elite Carpentry",
+    "service": "Carpenter",
+    "sector": "G-11",
+    "coordinates": {
+      "lat": 33.667,
+      "lng": 73.005
+    },
+    "rating": 4.5,
+    "specialization": "Lock Repair",
+    "onTimeRate": 0.92,
+    "cancelRate": 0.08,
+    "baseRate": 1500,
+    "availability": [
+      "11:00 AM",
+      "02:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p21",
+    "name": "Prof. Ayesha Tutor",
+    "service": "Tutor",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.72,
+      "lng": 73.055
+    },
+    "rating": 4.9,
+    "specialization": "Math & Physics O/A Level",
+    "onTimeRate": 0.98,
+    "cancelRate": 0.02,
+    "baseRate": 3000,
+    "availability": [
+      "03:00 PM",
+      "04:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p22",
+    "name": "Nazia Beauty Home",
+    "service": "Beautician",
+    "sector": "G-11",
+    "coordinates": {
+      "lat": 33.665,
+      "lng": 72.999
+    },
+    "rating": 4.8,
+    "specialization": "Bridal & Party Makeup",
+    "onTimeRate": 0.96,
+    "cancelRate": 0.04,
+    "baseRate": 4000,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p23",
+    "name": "Chef Bilal Desi Cook",
+    "service": "Cook",
+    "sector": "F-10",
+    "coordinates": {
+      "lat": 33.691,
+      "lng": 73.012
+    },
+    "rating": 4.7,
+    "specialization": "Biryani & BBQ Catering",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.06,
+    "baseRate": 3500,
+    "availability": [
+      "11:00 AM",
+      "02:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p24",
+    "name": "Asif Safe Driver",
+    "service": "Driver",
+    "sector": "G-13",
+    "coordinates": {
+      "lat": 33.641,
+      "lng": 72.969
+    },
+    "rating": 4.9,
+    "specialization": "Local & Outstation Trips",
+    "onTimeRate": 0.99,
+    "cancelRate": 0.01,
+    "baseRate": 2000,
+    "availability": [
+      "08:00 AM",
+      "02:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p25",
+    "name": "Brush Masters Painters",
+    "service": "Painter",
+    "sector": "G-13",
+    "coordinates": {
+      "lat": 33.646,
+      "lng": 72.964
+    },
+    "rating": 4.5,
+    "specialization": "Wall Paint & Wallpaper",
+    "onTimeRate": 0.91,
+    "cancelRate": 0.09,
+    "baseRate": 15000,
+    "availability": [
+      "09:00 AM",
+      "10:00 AM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p26",
+    "name": "Ustad Tariq Matric Tutor",
+    "service": "Tutor",
+    "sector": "G-13",
+    "coordinates": {
+      "lat": 33.643,
+      "lng": 72.971
+    },
+    "rating": 4.6,
+    "specialization": "Matric & FSc Sciences",
+    "onTimeRate": 0.93,
+    "cancelRate": 0.07,
+    "baseRate": 2500,
+    "availability": [
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p27",
+    "name": "Hina Home Salon",
+    "service": "Beautician",
+    "sector": "F-8",
+    "coordinates": {
+      "lat": 33.712,
+      "lng": 73.042
+    },
+    "rating": 4.7,
+    "specialization": "Hair Styling & Facials",
+    "onTimeRate": 0.95,
+    "cancelRate": 0.05,
+    "baseRate": 3000,
+    "availability": [
+      "11:00 AM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p28",
+    "name": "Amir Bawarchi Cook",
+    "service": "Cook",
+    "sector": "G-11",
+    "coordinates": {
+      "lat": 33.666,
+      "lng": 72.996
+    },
+    "rating": 4.6,
+    "specialization": "Daily Meal Preparation",
+    "onTimeRate": 0.92,
+    "cancelRate": 0.08,
+    "baseRate": 2500,
+    "availability": [
+      "12:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p29",
+    "name": "Malik Driver Services",
+    "service": "Driver",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.722,
+      "lng": 73.054
+    },
+    "rating": 4.7,
+    "specialization": "Automatic & Manual Cars",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.06,
+    "baseRate": 2200,
+    "availability": [
+      "09:00 AM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p30",
+    "name": "Color King Painters",
+    "service": "Painter",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.724,
+      "lng": 73.051
+    },
+    "rating": 4.7,
+    "specialization": "Premium Finish Painting",
+    "onTimeRate": 0.95,
+    "cancelRate": 0.05,
+    "baseRate": 18000,
+    "availability": [
+      "08:00 AM",
+      "01:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p31",
+    "name": "I-10 Plumber Specialist",
+    "service": "Plumber",
+    "sector": "I-10",
+    "coordinates": {
+      "lat": 33.628,
+      "lng": 73.031
+    },
+    "rating": 4.6,
+    "specialization": "Drain Clog & Pipe Leak",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.06,
+    "baseRate": 1200,
+    "availability": [
+      "10:00 AM",
+      "02:00 PM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p32",
+    "name": "I-10 Electrician Works",
+    "service": "Electrician",
+    "sector": "I-10",
+    "coordinates": {
+      "lat": 33.626,
+      "lng": 73.035
+    },
+    "rating": 4.5,
+    "specialization": "Short Circuit & UPS",
+    "onTimeRate": 0.92,
+    "cancelRate": 0.08,
+    "baseRate": 1100,
+    "availability": [
+      "09:00 AM",
+      "01:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p33",
+    "name": "I-8 AC Cooling Expert",
+    "service": "AC Technician",
+    "sector": "I-8",
+    "coordinates": {
+      "lat": 33.661,
+      "lng": 73.072
+    },
+    "rating": 4.7,
+    "specialization": "Inverter Gas & Wash",
+    "onTimeRate": 0.96,
+    "cancelRate": 0.04,
+    "baseRate": 2500,
+    "availability": [
+      "11:00 AM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p34",
+    "name": "G-9 Cleaning Services",
+    "service": "Cleaner",
+    "sector": "G-9",
+    "coordinates": {
+      "lat": 33.682,
+      "lng": 73.029
+    },
+    "rating": 4.6,
+    "specialization": "Deep Sofa & Room Wash",
+    "onTimeRate": 0.93,
+    "cancelRate": 0.07,
+    "baseRate": 2800,
+    "availability": [
+      "08:00 AM",
+      "01:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p35",
+    "name": "H-13 Carpenter Masters",
+    "service": "Carpenter",
+    "sector": "H-13",
+    "coordinates": {
+      "lat": 33.633,
+      "lng": 72.951
+    },
+    "rating": 4.4,
+    "specialization": "Door Lock & Wood Fix",
+    "onTimeRate": 0.88,
+    "cancelRate": 0.12,
+    "baseRate": 1400,
+    "availability": [
+      "10:00 AM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p36",
+    "name": "DHA Plumber Expert",
+    "service": "Plumber",
+    "sector": "DHA Phase 2",
+    "coordinates": {
+      "lat": 33.525,
+      "lng": 73.155
+    },
+    "rating": 4.9,
+    "specialization": "Smart Sanitary Install",
+    "onTimeRate": 0.98,
+    "cancelRate": 0.02,
+    "baseRate": 2000,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p37",
+    "name": "F-11 Solar & Electric",
+    "service": "Electrician",
+    "sector": "F-11",
+    "coordinates": {
+      "lat": 33.684,
+      "lng": 72.978
+    },
+    "rating": 4.8,
+    "specialization": "Inverter & Solar Diagnostics",
+    "onTimeRate": 0.96,
+    "cancelRate": 0.04,
+    "baseRate": 1800,
+    "availability": [
+      "09:00 AM",
+      "02:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p38",
+    "name": "E-11 AC Pro Chillers",
+    "service": "AC Technician",
+    "sector": "E-11",
+    "coordinates": {
+      "lat": 33.698,
+      "lng": 72.974
+    },
+    "rating": 4.7,
+    "specialization": "Chemical Wash & Gas Topup",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.06,
+    "baseRate": 2400,
+    "availability": [
+      "10:00 AM",
+      "03:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p39",
+    "name": "Bahria Town Sofa Care",
+    "service": "Cleaner",
+    "sector": "Bahria Town",
+    "coordinates": {
+      "lat": 33.565,
+      "lng": 73.125
+    },
+    "rating": 4.9,
+    "specialization": "Deep Sofa & Mattress Steam",
+    "onTimeRate": 0.97,
+    "cancelRate": 0.03,
+    "baseRate": 3500,
+    "availability": [
+      "08:00 AM",
+      "12:00 PM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p40",
+    "name": "D-12 Elite Woodwork",
+    "service": "Carpenter",
+    "sector": "D-12",
+    "coordinates": {
+      "lat": 33.708,
+      "lng": 72.935
+    },
+    "rating": 4.6,
+    "specialization": "Cabinet Install & Hinge Fix",
+    "onTimeRate": 0.92,
+    "cancelRate": 0.08,
+    "baseRate": 1600,
+    "availability": [
+      "09:00 AM",
+      "02:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p41",
+    "name": "F-6 English & Math Academy",
+    "service": "Tutor",
+    "sector": "F-6",
+    "coordinates": {
+      "lat": 33.729,
+      "lng": 73.068
+    },
+    "rating": 4.9,
+    "specialization": "O/A Level dynamic syllabus prep",
+    "onTimeRate": 0.99,
+    "cancelRate": 0.01,
+    "baseRate": 4000,
+    "availability": [
+      "03:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p42",
+    "name": "G-10 Bridal Glow Salon",
+    "service": "Beautician",
+    "sector": "G-10",
+    "coordinates": {
+      "lat": 33.678,
+      "lng": 73.002
+    },
+    "rating": 4.7,
+    "specialization": "Party Makeup & Hair Care",
+    "onTimeRate": 0.95,
+    "cancelRate": 0.05,
+    "baseRate": 5000,
+    "availability": [
+      "11:00 AM",
+      "02:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p43",
+    "name": "I-8 Dynamic Desi Cook",
+    "service": "Cook",
+    "sector": "I-8",
+    "coordinates": {
+      "lat": 33.664,
+      "lng": 73.078
+    },
+    "rating": 4.8,
+    "specialization": "Mutton Biryani & Catering",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.06,
+    "baseRate": 3000,
+    "availability": [
+      "10:00 AM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p44",
+    "name": "G-8 Outstation Chauffeur",
+    "service": "Driver",
+    "sector": "G-8",
+    "coordinates": {
+      "lat": 33.693,
+      "lng": 73.045
+    },
+    "rating": 4.7,
+    "specialization": "Highway & Outstation Trips",
+    "onTimeRate": 0.95,
+    "cancelRate": 0.05,
+    "baseRate": 2500,
+    "availability": [
+      "07:00 AM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p45",
+    "name": "F-8 Spray Paint Masters",
+    "service": "Painter",
+    "sector": "F-8",
+    "coordinates": {
+      "lat": 33.712,
+      "lng": 73.025
+    },
+    "rating": 4.8,
+    "specialization": "Texture & Accent Wall Spray",
+    "onTimeRate": 0.96,
+    "cancelRate": 0.04,
+    "baseRate": 25000,
+    "availability": [
+      "08:00 AM",
+      "01:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p46",
+    "name": "G-14 Smart Leak Plumber",
+    "service": "Plumber",
+    "sector": "G-14",
+    "coordinates": {
+      "lat": 33.629,
+      "lng": 72.932
+    },
+    "rating": 4.5,
+    "specialization": "Emergency Water Block Clean",
+    "onTimeRate": 0.9,
+    "cancelRate": 0.1,
+    "baseRate": 1000,
+    "availability": [
+      "09:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p47",
+    "name": "I-9 Industrial Wireman",
+    "service": "Electrician",
+    "sector": "I-9",
+    "coordinates": {
+      "lat": 33.649,
+      "lng": 73.048
+    },
+    "rating": 4.6,
+    "specialization": "Three Phase & Panel Wiring",
+    "onTimeRate": 0.91,
+    "cancelRate": 0.09,
+    "baseRate": 2000,
+    "availability": [
+      "08:00 AM",
+      "01:00 PM",
+      "04:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p48",
+    "name": "E-7 AC Split Doctor",
+    "service": "AC Technician",
+    "sector": "E-7",
+    "coordinates": {
+      "lat": 33.725,
+      "lng": 73.036
+    },
+    "rating": 4.9,
+    "specialization": "Complete Mounting & Leak Repair",
+    "onTimeRate": 0.98,
+    "cancelRate": 0.02,
+    "baseRate": 3000,
+    "availability": [
+      "09:00 AM",
+      "12:00 PM",
+      "03:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p49",
+    "name": "G-6 Premium Home Cleaner",
+    "service": "Cleaner",
+    "sector": "G-6",
+    "coordinates": {
+      "lat": 33.722,
+      "lng": 73.082
+    },
+    "rating": 4.8,
+    "specialization": "Glass Buffing & Deep Kitchen",
+    "onTimeRate": 0.96,
+    "cancelRate": 0.04,
+    "baseRate": 3000,
+    "availability": [
+      "08:00 AM",
+      "02:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p50",
+    "name": "F-10 Wood Craft Pro",
+    "service": "Carpenter",
+    "sector": "F-10",
+    "coordinates": {
+      "lat": 33.692,
+      "lng": 73.008
+    },
+    "rating": 4.7,
+    "specialization": "Locks Repair & Wardrobe Slide",
+    "onTimeRate": 0.93,
+    "cancelRate": 0.07,
+    "baseRate": 1500,
+    "availability": [
+      "10:00 AM",
+      "02:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p51",
+    "name": "Islamabad Professional Mechanics",
+    "service": "Mechanic",
+    "sector": "I-8",
+    "coordinates": {
+      "lat": 33.64705051041618,
+      "lng": 73.01854389222665
+    },
+    "rating": 4.3,
+    "specialization": "Car Engine Tuning",
+    "onTimeRate": 0.86,
+    "cancelRate": 0.03,
+    "baseRate": 1500,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p52",
+    "name": "Rawal Mechanic Hub",
+    "service": "Mechanic",
+    "sector": "F-8",
+    "coordinates": {
+      "lat": 33.73186445303023,
+      "lng": 73.01834614306799
+    },
+    "rating": 4,
+    "specialization": "Bike Tuning & Repair",
+    "onTimeRate": 0.96,
+    "cancelRate": 0.1,
+    "baseRate": 1350,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p53",
+    "name": "Islamabad Professional Appliance Repairs",
+    "service": "Appliance Repair",
+    "sector": "G-9",
+    "coordinates": {
+      "lat": 33.66936765202761,
+      "lng": 73.00901155759857
+    },
+    "rating": 4.4,
+    "specialization": "Automatic Washing Machine Fix",
+    "onTimeRate": 0.98,
+    "cancelRate": 0.01,
+    "baseRate": 1200,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p54",
+    "name": "Rawal Appliance Repair Hub",
+    "service": "Appliance Repair",
+    "sector": "F-11",
+    "coordinates": {
+      "lat": 33.67021746993255,
+      "lng": 72.99801976350423
+    },
+    "rating": 4.1,
+    "specialization": "Microwave Oven Repair",
+    "onTimeRate": 0.95,
+    "cancelRate": 0.11,
+    "baseRate": 1080,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p55",
+    "name": "Islamabad Professional Gardeners",
+    "service": "Gardener",
+    "sector": "Bahria Town",
+    "coordinates": {
+      "lat": 33.65007225529897,
+      "lng": 72.99790891599214
+    },
+    "rating": 4.8,
+    "specialization": "Lawn Mowing & Weeding",
+    "onTimeRate": 0.88,
+    "cancelRate": 0.06,
+    "baseRate": 1000,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p56",
+    "name": "Rawal Gardener Hub",
+    "service": "Gardener",
+    "sector": "F-8",
+    "coordinates": {
+      "lat": 33.64616382179474,
+      "lng": 73.08901893390266
+    },
+    "rating": 4.8,
+    "specialization": "Tree Trimming",
+    "onTimeRate": 0.86,
+    "cancelRate": 0.09,
+    "baseRate": 900,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p57",
+    "name": "Islamabad Professional Pest Controls",
+    "service": "Pest Control",
+    "sector": "F-10",
+    "coordinates": {
+      "lat": 33.69768327322484,
+      "lng": 73.0532006186224
+    },
+    "rating": 4.4,
+    "specialization": "Anti-Termite Treatment",
+    "onTimeRate": 0.87,
+    "cancelRate": 0.05,
+    "baseRate": 3500,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p58",
+    "name": "Rawal Pest Control Hub",
+    "service": "Pest Control",
+    "sector": "Bahria Town",
+    "coordinates": {
+      "lat": 33.706106726630715,
+      "lng": 73.00253307965319
+    },
+    "rating": 4.3,
+    "specialization": "Bedbug Fumigation",
+    "onTimeRate": 0.95,
+    "cancelRate": 0.07,
+    "baseRate": 3150,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p59",
+    "name": "Islamabad Professional Solar Installers",
+    "service": "Solar Installer",
+    "sector": "F-8",
+    "coordinates": {
+      "lat": 33.71332234140025,
+      "lng": 73.05060105924792
+    },
+    "rating": 4.2,
+    "specialization": "Solar Panel Cleaning",
+    "onTimeRate": 0.89,
+    "cancelRate": 0.05,
+    "baseRate": 4000,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p60",
+    "name": "Rawal Solar Installer Hub",
+    "service": "Solar Installer",
+    "sector": "E-11",
+    "coordinates": {
+      "lat": 33.713069735991525,
+      "lng": 73.03339023867467
+    },
+    "rating": 4.5,
+    "specialization": "Inverter Mapping & Configuration",
+    "onTimeRate": 0.97,
+    "cancelRate": 0.01,
+    "baseRate": 3600,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p61",
+    "name": "Islamabad Professional CCTV Technicians",
+    "service": "CCTV Technician",
+    "sector": "G-9",
+    "coordinates": {
+      "lat": 33.661987461410504,
+      "lng": 73.03901438925222
+    },
+    "rating": 4.9,
+    "specialization": "CCTV Camera Setup",
+    "onTimeRate": 0.99,
+    "cancelRate": 0.01,
+    "baseRate": 2000,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p62",
+    "name": "Rawal CCTV Technician Hub",
+    "service": "CCTV Technician",
+    "sector": "I-8",
+    "coordinates": {
+      "lat": 33.699910455371956,
+      "lng": 73.01258653387622
+    },
+    "rating": 4.2,
+    "specialization": "IP Camera DVR Mapping",
+    "onTimeRate": 0.84,
+    "cancelRate": 0.11,
+    "baseRate": 1800,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p63",
+    "name": "Islamabad Professional Welders",
+    "service": "Welder",
+    "sector": "G-11",
+    "coordinates": {
+      "lat": 33.73408401623123,
+      "lng": 73.08669196410648
+    },
+    "rating": 4.9,
+    "specialization": "Iron Gate Welding",
+    "onTimeRate": 0.88,
+    "cancelRate": 0.07,
+    "baseRate": 1500,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p64",
+    "name": "Rawal Welder Hub",
+    "service": "Welder",
+    "sector": "F-11",
+    "coordinates": {
+      "lat": 33.64731197980102,
+      "lng": 73.07054670966663
+    },
+    "rating": 4.1,
+    "specialization": "Window Grill Repair",
+    "onTimeRate": 0.89,
+    "cancelRate": 0.07,
+    "baseRate": 1350,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p65",
+    "name": "Islamabad Professional Sofa Cleaners",
+    "service": "Sofa Cleaner",
+    "sector": "F-11",
+    "coordinates": {
+      "lat": 33.64693920149234,
+      "lng": 73.02931010273088
+    },
+    "rating": 4.3,
+    "specialization": "Sofa Dry Cleaning",
+    "onTimeRate": 0.99,
+    "cancelRate": 0.09,
+    "baseRate": 2500,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p66",
+    "name": "Rawal Sofa Cleaner Hub",
+    "service": "Sofa Cleaner",
+    "sector": "F-8",
+    "coordinates": {
+      "lat": 33.634651902933065,
+      "lng": 73.08216737602167
+    },
+    "rating": 4.1,
+    "specialization": "Vacuum & Steam wash",
+    "onTimeRate": 0.96,
+    "cancelRate": 0.09,
+    "baseRate": 2250,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p67",
+    "name": "Islamabad Professional Locksmiths",
+    "service": "Locksmith",
+    "sector": "D-12",
+    "coordinates": {
+      "lat": 33.643600935693996,
+      "lng": 73.0660990626979
+    },
+    "rating": 4.8,
+    "specialization": "Emergency Lock Picking",
+    "onTimeRate": 0.96,
+    "cancelRate": 0.05,
+    "baseRate": 1200,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p68",
+    "name": "Rawal Locksmith Hub",
+    "service": "Locksmith",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.646355065813204,
+      "lng": 73.06665045481377
+    },
+    "rating": 4.5,
+    "specialization": "Key Duplication",
+    "onTimeRate": 0.91,
+    "cancelRate": 0.09,
+    "baseRate": 1080,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p69",
+    "name": "Islamabad Professional Masons",
+    "service": "Mason",
+    "sector": "F-8",
+    "coordinates": {
+      "lat": 33.66934804239161,
+      "lng": 73.07708842547844
+    },
+    "rating": 4.2,
+    "specialization": "Wall Brick Plastering",
+    "onTimeRate": 0.98,
+    "cancelRate": 0.02,
+    "baseRate": 2500,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p70",
+    "name": "Rawal Mason Hub",
+    "service": "Mason",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.70476088680084,
+      "lng": 73.05056280765055
+    },
+    "rating": 4.3,
+    "specialization": "Bathroom Tile Installation",
+    "onTimeRate": 0.87,
+    "cancelRate": 0.04,
+    "baseRate": 2250,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p71",
+    "name": "Islamabad Professional Car Washers",
+    "service": "Car Washer",
+    "sector": "G-9",
+    "coordinates": {
+      "lat": 33.72003579603866,
+      "lng": 73.06793747022218
+    },
+    "rating": 4.8,
+    "specialization": "Mobile Exterior Wash",
+    "onTimeRate": 0.93,
+    "cancelRate": 0.09,
+    "baseRate": 800,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p72",
+    "name": "Rawal Car Washer Hub",
+    "service": "Car Washer",
+    "sector": "D-12",
+    "coordinates": {
+      "lat": 33.70881022463484,
+      "lng": 73.04952207702192
+    },
+    "rating": 4.2,
+    "specialization": "Full Car Detailing",
+    "onTimeRate": 0.86,
+    "cancelRate": 0.07,
+    "baseRate": 720,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p73",
+    "name": "Islamabad Professional Tailors",
+    "service": "Tailor",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.662317652581464,
+      "lng": 73.02256605028627
+    },
+    "rating": 4.4,
+    "specialization": "Men's Shalwar Kameez stitching",
+    "onTimeRate": 0.95,
+    "cancelRate": 0.03,
+    "baseRate": 1500,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p74",
+    "name": "Rawal Tailor Hub",
+    "service": "Tailor",
+    "sector": "G-11",
+    "coordinates": {
+      "lat": 33.67862339674967,
+      "lng": 73.06576230388383
+    },
+    "rating": 4.4,
+    "specialization": "Alterations & Fitting",
+    "onTimeRate": 0.86,
+    "cancelRate": 0.02,
+    "baseRate": 1350,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p75",
+    "name": "Islamabad Professional Photographers",
+    "service": "Photographer",
+    "sector": "D-12",
+    "coordinates": {
+      "lat": 33.712835327382486,
+      "lng": 73.01910319408391
+    },
+    "rating": 4.3,
+    "specialization": "Event / Birthday coverage",
+    "onTimeRate": 0.93,
+    "cancelRate": 0.06,
+    "baseRate": 5000,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p76",
+    "name": "Rawal Photographer Hub",
+    "service": "Photographer",
+    "sector": "DHA Phase 2",
+    "coordinates": {
+      "lat": 33.70815746797649,
+      "lng": 73.07325712573872
+    },
+    "rating": 4.6,
+    "specialization": "Outdoor Portrait shoot",
+    "onTimeRate": 0.87,
+    "cancelRate": 0.06,
+    "baseRate": 4500,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p77",
+    "name": "Islamabad Professional Disinfectors",
+    "service": "Disinfector",
+    "sector": "F-10",
+    "coordinates": {
+      "lat": 33.64301233006857,
+      "lng": 73.08594196475858
+    },
+    "rating": 4.8,
+    "specialization": "Full Home Sanitization",
+    "onTimeRate": 0.9,
+    "cancelRate": 0.03,
+    "baseRate": 3000,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p78",
+    "name": "Rawal Disinfector Hub",
+    "service": "Disinfector",
+    "sector": "I-8",
+    "coordinates": {
+      "lat": 33.682984848218744,
+      "lng": 73.06259059579156
+    },
+    "rating": 4.6,
+    "specialization": "Commercial Office Disinfection",
+    "onTimeRate": 0.93,
+    "cancelRate": 0.04,
+    "baseRate": 2700,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p79",
+    "name": "Islamabad Professional Physiotherapists",
+    "service": "Physiotherapist",
+    "sector": "Bahria Town",
+    "coordinates": {
+      "lat": 33.63786680538213,
+      "lng": 73.05623346574944
+    },
+    "rating": 4.5,
+    "specialization": "Home Back Pain Therapy",
+    "onTimeRate": 0.92,
+    "cancelRate": 0.04,
+    "baseRate": 2500,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p80",
+    "name": "Rawal Physiotherapist Hub",
+    "service": "Physiotherapist",
+    "sector": "I-8",
+    "coordinates": {
+      "lat": 33.63542798422553,
+      "lng": 73.034149864813
+    },
+    "rating": 4.3,
+    "specialization": "Stroke Rehabilitation",
+    "onTimeRate": 0.85,
+    "cancelRate": 0.07,
+    "baseRate": 2250,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p81",
+    "name": "Islamabad Professional Barbers",
+    "service": "Barber",
+    "sector": "F-7",
+    "coordinates": {
+      "lat": 33.662148951282944,
+      "lng": 73.04814609837632
+    },
+    "rating": 5,
+    "specialization": "Home Haircut & Shave",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.03,
+    "baseRate": 800,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p82",
+    "name": "Rawal Barber Hub",
+    "service": "Barber",
+    "sector": "Bahria Town",
+    "coordinates": {
+      "lat": 33.72302916089932,
+      "lng": 73.0580275392297
+    },
+    "rating": 4.8,
+    "specialization": "Men's facial & scrub",
+    "onTimeRate": 0.84,
+    "cancelRate": 0.08,
+    "baseRate": 720,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p83",
+    "name": "Islamabad Professional Laptop Techs",
+    "service": "Laptop Tech",
+    "sector": "F-11",
+    "coordinates": {
+      "lat": 33.70102485438683,
+      "lng": 73.03567220241595
+    },
+    "rating": 4.4,
+    "specialization": "Windows/Mac OS install",
+    "onTimeRate": 0.93,
+    "cancelRate": 0,
+    "baseRate": 1500,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p84",
+    "name": "Rawal Laptop Tech Hub",
+    "service": "Laptop Tech",
+    "sector": "DHA Phase 2",
+    "coordinates": {
+      "lat": 33.68274129434656,
+      "lng": 73.07388918086694
+    },
+    "rating": 4.2,
+    "specialization": "Laptop Screen replacement",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.02,
+    "baseRate": 1350,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p85",
+    "name": "Islamabad Professional Roofers",
+    "service": "Roofer",
+    "sector": "F-8",
+    "coordinates": {
+      "lat": 33.64980647552021,
+      "lng": 73.07616957976767
+    },
+    "rating": 4.9,
+    "specialization": "Roof Leakage Waterproofing",
+    "onTimeRate": 0.88,
+    "cancelRate": 0.04,
+    "baseRate": 8000,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p86",
+    "name": "Rawal Roofer Hub",
+    "service": "Roofer",
+    "sector": "I-8",
+    "coordinates": {
+      "lat": 33.69059905684197,
+      "lng": 73.0603425373894
+    },
+    "rating": 4.7,
+    "specialization": "Bitumen Membrane Coating",
+    "onTimeRate": 0.92,
+    "cancelRate": 0.11,
+    "baseRate": 7200,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p87",
+    "name": "Islamabad Professional Chauffeurs",
+    "service": "Chauffeur",
+    "sector": "G-13",
+    "coordinates": {
+      "lat": 33.718837122192305,
+      "lng": 72.99958538964316
+    },
+    "rating": 4.5,
+    "specialization": "Premium Event Driver",
+    "onTimeRate": 0.86,
+    "cancelRate": 0,
+    "baseRate": 3000,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p88",
+    "name": "Rawal Chauffeur Hub",
+    "service": "Chauffeur",
+    "sector": "DHA Phase 2",
+    "coordinates": {
+      "lat": 33.73116613652452,
+      "lng": 73.06402371804971
+    },
+    "rating": 4.8,
+    "specialization": "Outstation / Highway trips",
+    "onTimeRate": 0.94,
+    "cancelRate": 0.11,
+    "baseRate": 2700,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "p89",
+    "name": "Islamabad Professional Handymans",
+    "service": "Handyman",
+    "sector": "I-8",
+    "coordinates": {
+      "lat": 33.73268889238385,
+      "lng": 73.09481170103403
+    },
+    "rating": 4.8,
+    "specialization": "Wall TV Mounting",
+    "onTimeRate": 0.92,
+    "cancelRate": 0.05,
+    "baseRate": 800,
+    "availability": [
+      "09:00 AM",
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "reviews": [
+      {
+        "date": "2026-05-12",
+        "rating": 5,
+        "comment": "Very professional and helpful!"
+      }
+    ]
+  },
+  {
+    "id": "p90",
+    "name": "Rawal Handyman Hub",
+    "service": "Handyman",
+    "sector": "F-11",
+    "coordinates": {
+      "lat": 33.657193723504584,
+      "lng": 73.06699092526156
+    },
+    "rating": 4.4,
+    "specialization": "Curtain Rods Hanging",
+    "onTimeRate": 0.95,
+    "cancelRate": 0.05,
+    "baseRate": 720,
+    "availability": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:00 PM",
+      "06:00 PM"
+    ],
+    "reviews": []
+  }
+]
